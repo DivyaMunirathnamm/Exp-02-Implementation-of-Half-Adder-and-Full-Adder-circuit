@@ -38,8 +38,10 @@ If the output is 1, then the led glows.
 Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
+
 Developed by: Divya M
 RegisterNumber: 2303162
+
 ```
 module EX03DEHA(A,B,sum,carry);
 input A,B;
@@ -57,8 +59,6 @@ assign carry=((a&b)|(b&c)|(c&a));
 endmodule
 ```
 */
-
-## Logic symbol:
 
 ### RTL:
 ![Screenshot (183)](https://github.com/DivyaMunirathnamm/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474097/222bd6c2-3834-4285-9250-ab19ddd35cbb)
