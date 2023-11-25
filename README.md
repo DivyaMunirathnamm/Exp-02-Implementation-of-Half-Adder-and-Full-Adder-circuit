@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -49,8 +49,7 @@ output sum,carry;
 xor(sum,A,B);
 and(carry,A,B);
 endmodule
-```
-```
+
 module EX03DEFA(a,b,c,sum,carry);
 input a,b,c;
 output sum,carry;
@@ -69,5 +68,6 @@ endmodule
 ![Screenshot (186)](https://github.com/DivyaMunirathnamm/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474097/6dd6c567-84f7-4644-934d-59af1bb12f91)
 
 ### TRUTH TABLE:
+![Screenshot (188)](https://github.com/DivyaMunirathnamm/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/147474097/b7218d22-cf0e-4739-b81c-5988e430b1d4)
 
 ### Result:
